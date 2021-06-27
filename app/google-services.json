@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988646059288",
+    "project_id": "flip-the-pics",
+    "storage_bucket": "flip-the-pics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988646059288:android:18b39c8523a51895e7426d",
+        "android_client_info": {
+          "package_name": "com.example.lthnh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988646059288-06gp841m4sji3o5i7mvdj0shfbad4sup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOl8ddBw8oqem8_JSXog9KuFO5ifEo7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988646059288-06gp841m4sji3o5i7mvdj0shfbad4sup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
