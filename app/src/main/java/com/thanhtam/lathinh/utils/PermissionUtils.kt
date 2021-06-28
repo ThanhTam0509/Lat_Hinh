@@ -1,11 +1,10 @@
-package com.example.lthnh.utils
+package com.thanhtam.lathinh.utils
 
 import android.app.Activity
 import android.content.Context
 import android.content.pm.PackageManager
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import java.net.NetPermission
 
 fun isPermissionGranted (context: Context, permission: String): Boolean {
     return ContextCompat.checkSelfPermission(context, permission) == PackageManager.PERMISSION_GRANTED

@@ -1,4 +1,4 @@
-package com.example.lthnh.utils
+package com.thanhtam.lathinh.utils
 
 import android.graphics.Bitmap
 

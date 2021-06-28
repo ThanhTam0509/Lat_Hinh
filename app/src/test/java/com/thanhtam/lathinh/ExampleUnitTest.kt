@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 import org.junit.Test
 

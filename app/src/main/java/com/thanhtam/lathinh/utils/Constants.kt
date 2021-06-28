@@ -1,6 +1,6 @@
-package com.example.lthnh.utils
+package com.thanhtam.lathinh.utils
 
-import com.example.lthnh.R
+import com.thanhtam.lathinh.R
 
 const val EXTRA_GAME_NAME = "EXTRA_GAME_NAME"
 const val EXTRA_BOARD_SIZE = "EXTRA_BOARD_SIZE"

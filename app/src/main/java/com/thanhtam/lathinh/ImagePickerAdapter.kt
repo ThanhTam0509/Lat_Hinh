@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 import android.content.Context
 import android.net.Uri

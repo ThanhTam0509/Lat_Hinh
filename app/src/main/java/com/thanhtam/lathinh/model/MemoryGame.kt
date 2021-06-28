@@ -1,7 +1,7 @@
-package com.example.lthnh.model
+package com.thanhtam.lathinh.model
 
-import com.example.lthnh.BoardSize
-import com.example.lthnh.utils.DEFAULT_ICONS
+import com.thanhtam.lathinh.BoardSize
+import com.thanhtam.lathinh.utils.DEFAULT_ICONS
 
 class MemoryGame(private val boardSize: BoardSize, private val customImages: List<String>?) {
     val cards: List<MemoryCard>

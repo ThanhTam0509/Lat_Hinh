@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 import android.app.Activity
 import android.app.AlertDialog
@@ -23,7 +23,7 @@ import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.lthnh.utils.*
+import com.thanhtam.lathinh.utils.*
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.storage.ktx.storage

@@ -1,4 +1,4 @@
-package com.example.lthnh.model
+package com.thanhtam.lathinh.model
 
 data class MemoryCard(
     val identifier: Int,

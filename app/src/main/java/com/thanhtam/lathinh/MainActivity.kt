@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 import android.animation.ArgbEvaluator
 import android.app.Activity
@@ -15,15 +15,14 @@ import android.widget.EditText
 import android.widget.RadioGroup
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
-import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.lthnh.model.MemoryGame
-import com.example.lthnh.model.UserImageList
-import com.example.lthnh.utils.EXTRA_BOARD_SIZE
-import com.example.lthnh.utils.EXTRA_GAME_NAME
+import com.thanhtam.lathinh.model.MemoryGame
+import com.thanhtam.lathinh.model.UserImageList
+import com.thanhtam.lathinh.utils.EXTRA_BOARD_SIZE
+import com.thanhtam.lathinh.utils.EXTRA_GAME_NAME
 import com.github.jinatonic.confetti.CommonConfetti
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.firestore.ktx.firestore

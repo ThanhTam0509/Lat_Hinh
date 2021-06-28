@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 enum class BoardSize(val numCards: Int){
     EASY(8),

@@ -1,4 +1,4 @@
-package com.example.lthnh
+package com.thanhtam.lathinh
 
 import android.content.Context
 import android.util.Log
@@ -10,7 +10,7 @@ import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.example.lthnh.model.MemoryCard
+import com.thanhtam.lathinh.model.MemoryCard
 import com.squareup.picasso.Picasso
 import kotlin.math.min
 
