@@ -1,2 +1,4 @@
 # Lat_Hinh
-App build theo youtube up thử lên google play
+Build app testing upload to google play
+# Google Play
+https://play.google.com/store/apps/details?id=com.thanhtam.lathinh
